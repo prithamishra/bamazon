@@ -19,7 +19,7 @@
 
 4. This database has around 20 different products. (i.e. Insert "mock" data rows into this database and table).
 
-5. Created a Node application called `bamazonCustomer.js`. Running this application will first display all of the items available for sale. Includind the ids, names, and prices of products for sale.
+5. Created a Node application called `bamazon.js`. Running this application will first display all of the items available for sale. Includind the ids, names, and prices of products for sale.
 
 6. The app then prompt users with two messages.
 
